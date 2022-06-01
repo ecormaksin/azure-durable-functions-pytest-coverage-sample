@@ -14,3 +14,4 @@ The following resources tremendously helped me.
 - article / blogs
   - <https://webbibouroku.com/Blog/Article/pytest-mock>
   - <https://webbibouroku.com/Blog/Article/pytest-asyncio>
+  - <https://qiita.com/moshi/items/21a6ff0a20cd840f71ea>
